@@ -1,0 +1,11 @@
+c:\users\magno\source\repos\Assessment\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+c:\users\magno\source\repos\Assessment\ConsoleApp\bin\Debug\ConsoleApp.exe
+c:\users\magno\source\repos\Assessment\ConsoleApp\bin\Debug\ConsoleApp.pdb
+c:\users\magno\source\repos\Assessment\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+c:\users\magno\source\repos\Assessment\ConsoleApp\obj\Debug\ConsoleApp.exe
+c:\users\magno\source\repos\Assessment\ConsoleApp\obj\Debug\ConsoleApp.pdb
+c:\users\magno\source\repos\Assessment\ConsoleApp\bin\Debug\Lib.dll
+c:\users\magno\source\repos\Assessment\ConsoleApp\bin\Debug\Lib.pdb
+c:\users\magno\source\repos\Assessment\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\magno\source\repos\Assessment\ConsoleApp\bin\Debug\DataManagement.dll
+c:\users\magno\source\repos\Assessment\ConsoleApp\bin\Debug\DataManagement.pdb

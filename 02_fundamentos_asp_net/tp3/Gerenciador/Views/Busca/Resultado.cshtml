@@ -1,0 +1,34 @@
+﻿@model Gerenciador.Models.Pessoa
+
+@{
+    ViewBag.Title = "Resultado";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Resultado</h2>
+<p>@Html.ActionLink("Voltar", "Index", "Busca")</p>
+
+<p>Resultado da busca por: "@ViewBag.Query"</p>
+
+<table class="table">
+    <tr>
+        <th>ID</th>
+        <th>Nome Completo</th>
+        <th>Data de Aniversário</th>
+        <th>Ações</th>
+    </tr>
+
+    @foreach (var cliente in ViewBag.Pessoas)
+    {
+        <tr>
+            <td>@cliente.Id</td>
+            <td>@cliente.Nome @cliente.Sobrenome</td>
+            <td>@cliente.DtAniversario</td>
+            <td>
+                @Html.ActionLink("Detalhes", "Index", new { controller = "Detalhes", id = @cliente.Id }, new { @class = "btn btn-sm btn-primary" })
+                @Html.ActionLink("Editar", "Index", new { controller = "Edicao", id = @cliente.Id }, new { @class = "btn btn-sm btn-primary" })
+                @Html.ActionLink("Excluir", "Index", new { controller = "Delecao", id = @cliente.Id }, new { @class = "btn btn-sm btn-danger" })
+            </td>
+        </tr>
+    }
+</table>

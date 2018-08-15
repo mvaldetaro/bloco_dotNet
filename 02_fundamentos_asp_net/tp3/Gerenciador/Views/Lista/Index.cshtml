@@ -1,0 +1,32 @@
+﻿@model Gerenciador.Models.Pessoa
+
+@{
+    ViewBag.Title = "Lista";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Lista de Pessoas</h2>
+<p>@Html.ActionLink("Voltar", "Index", "Home")</p>
+
+<table class="table">
+    <tr>
+        <th>ID</th>
+        <th>Nome Completo</th>
+        <th>Data de Aniversário</th>
+        <th>Ações</th>
+    </tr>
+
+    @foreach (var pessoa in ViewBag.Pessoas)
+    {
+        <tr>
+            <td>@pessoa.Id</td>
+            <td>@pessoa.Nome @pessoa.Sobrenome</td>
+            <td>@pessoa.DtAniversario</td>
+            <td>
+                @Html.ActionLink("Detalhes", "Index", new { controller = "Detalhes", id = @pessoa.Id }, new { @class = "btn btn-sm btn-primary" })
+                @Html.ActionLink("Editar", "Index", new { controller = "Edicao", id = @pessoa.Id }, new { @class = "btn btn-sm btn-primary" })
+                @Html.ActionLink("Excluir", "Index", new { controller = "Delecao", id = @pessoa.Id }, new { @class = "btn btn-sm btn-danger" })
+            </td>
+        </tr>
+    }
+</table>

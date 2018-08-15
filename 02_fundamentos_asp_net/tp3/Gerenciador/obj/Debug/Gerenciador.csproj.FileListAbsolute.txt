@@ -1,0 +1,126 @@
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\ApplicationInsights.config
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\Gerenciador.dll.config
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\Gerenciador.dll
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\Gerenciador.pdb
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\Antlr3.Runtime.dll
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\Microsoft.AI.Web.dll
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\Microsoft.AI.WindowsServer.dll
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\Microsoft.ApplicationInsights.dll
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\Microsoft.Web.Infrastructure.dll
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\Newtonsoft.Json.dll
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\System.Web.Helpers.dll
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\System.Web.Mvc.dll
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\System.Web.Optimization.dll
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\System.Web.Razor.dll
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\System.Web.WebPages.Deployment.dll
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\System.Web.WebPages.dll
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\System.Web.WebPages.Razor.dll
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\WebGrease.dll
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\System.Web.Helpers.xml
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\System.Web.Mvc.xml
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\System.Web.Optimization.xml
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\System.Web.Razor.xml
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\System.Web.WebPages.xml
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\System.Web.WebPages.Deployment.xml
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\System.Web.WebPages.Razor.xml
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\Antlr3.Runtime.pdb
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\Newtonsoft.Json.xml
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\Microsoft.ApplicationInsights.xml
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\Microsoft.AI.WindowsServer.xml
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\bin\Microsoft.AI.Web.xml
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\obj\Debug\Gerenciador.csprojResolveAssemblyReference.cache
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\obj\Debug\Gerenciador.csproj.CoreCompileInputs.cache
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\obj\Debug\Gerenciador.dll
+c:\users\magno.oliveira\Source\Repos\tp3_web_asp_net\Gerenciador\obj\Debug\Gerenciador.pdb
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\ApplicationInsights.config
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\Gerenciador.dll.config
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\Gerenciador.dll
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\Gerenciador.pdb
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\Antlr3.Runtime.dll
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\Microsoft.AI.Web.dll
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\Microsoft.ApplicationInsights.dll
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\Newtonsoft.Json.dll
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\System.Web.Helpers.dll
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\System.Web.Mvc.dll
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\System.Web.Optimization.dll
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\System.Web.Razor.dll
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\System.Web.WebPages.Deployment.dll
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\System.Web.WebPages.dll
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\System.Web.WebPages.Razor.dll
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\WebGrease.dll
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\System.Web.Helpers.xml
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\System.Web.Mvc.xml
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\System.Web.Optimization.xml
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\System.Web.Razor.xml
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\System.Web.WebPages.xml
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\System.Web.WebPages.Deployment.xml
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\System.Web.WebPages.Razor.xml
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\Antlr3.Runtime.pdb
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\Newtonsoft.Json.xml
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\Microsoft.ApplicationInsights.xml
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\bin\Microsoft.AI.Web.xml
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\obj\Debug\Gerenciador.csprojResolveAssemblyReference.cache
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\obj\Debug\Gerenciador.csproj.CoreCompileInputs.cache
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\obj\Debug\Gerenciador.dll
+C:\Users\magno.oliveira\Documents\GitHub\dotnet\web_asp_net\tp3_web_asp_net\Gerenciador\obj\Debug\Gerenciador.pdb
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\ApplicationInsights.config
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\Gerenciador.dll.config
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\Gerenciador.dll
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\Gerenciador.pdb
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\Antlr3.Runtime.dll
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\Microsoft.AI.Web.dll
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\Newtonsoft.Json.dll
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\System.Web.Helpers.dll
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\System.Web.Mvc.dll
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\System.Web.Optimization.dll
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\System.Web.Razor.dll
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\System.Web.WebPages.dll
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\System.Web.WebPages.Razor.dll
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\WebGrease.dll
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\System.Web.Helpers.xml
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\System.Web.Mvc.xml
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\System.Web.Optimization.xml
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\System.Web.Razor.xml
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\System.Web.WebPages.xml
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\System.Web.WebPages.Razor.xml
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\Antlr3.Runtime.pdb
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\Newtonsoft.Json.xml
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\bin\Microsoft.AI.Web.xml
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\obj\Debug\Gerenciador.csprojResolveAssemblyReference.cache
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\obj\Debug\Gerenciador.csproj.CoreCompileInputs.cache
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\obj\Debug\Gerenciador.dll
+C:\Users\Magno\Google Drive\ADS\dotNet\02_fundamentos_asp_net\tp3\Gerenciador\obj\Debug\Gerenciador.pdb

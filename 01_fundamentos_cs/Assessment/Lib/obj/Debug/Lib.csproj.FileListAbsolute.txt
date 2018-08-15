@@ -1,0 +1,6 @@
+c:\users\magno\source\repos\Assessment\Lib\bin\Debug\Lib.dll
+c:\users\magno\source\repos\Assessment\Lib\bin\Debug\Lib.pdb
+c:\users\magno\source\repos\Assessment\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
+c:\users\magno\source\repos\Assessment\Lib\obj\Debug\Lib.dll
+c:\users\magno\source\repos\Assessment\Lib\obj\Debug\Lib.pdb
+c:\users\magno\source\repos\Assessment\Lib\obj\Debug\Lib.csprojResolveAssemblyReference.cache

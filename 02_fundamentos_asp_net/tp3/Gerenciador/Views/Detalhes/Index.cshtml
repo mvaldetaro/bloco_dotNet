@@ -1,0 +1,15 @@
+﻿@model Gerenciador.Models.Pessoa
+
+@{
+    ViewBag.Title = "Detalhes";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Detalhes</h2>
+<p>@Html.ActionLink("Voltar", "Index", "Lista")</p>
+
+<p><b>Nome Completo:</b> @Model.Nome @Model.Sobrenome</p>
+<p><b>Data de Nascimento:</b> @ViewBag.DataNascimento</p></p>
+
+<p>Faltam <b>@ViewBag.DiasRestantes</b> dias para esse aniversário.</p>
+<p>

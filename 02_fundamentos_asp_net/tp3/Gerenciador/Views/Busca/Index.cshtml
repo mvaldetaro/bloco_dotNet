@@ -1,0 +1,16 @@
+﻿@model Gerenciador.Models.Pessoa
+
+@{
+    ViewBag.Title = "Pesquisar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Pesquisar</h2>
+<p>@Html.ActionLink("Voltar", "Index", "Home")</p>
+
+<form action="/Busca/Resultado" method="POST">
+    <div class="form-group">
+        <input type="text" class="form-control" name="query" id="query" placeholder="Digite o nome ou parte do nome...">
+    </div>
+    <button type="submit" class="btn btn-default">Submit</button>
+</form>

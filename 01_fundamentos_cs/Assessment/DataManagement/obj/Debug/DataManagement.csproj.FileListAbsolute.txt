@@ -1,0 +1,8 @@
+c:\users\magno\source\repos\Assessment\DataManagement\bin\Debug\DataManagement.dll
+c:\users\magno\source\repos\Assessment\DataManagement\bin\Debug\DataManagement.pdb
+c:\users\magno\source\repos\Assessment\DataManagement\obj\Debug\DataManagement.csproj.CoreCompileInputs.cache
+c:\users\magno\source\repos\Assessment\DataManagement\obj\Debug\DataManagement.dll
+c:\users\magno\source\repos\Assessment\DataManagement\obj\Debug\DataManagement.pdb
+c:\users\magno\source\repos\Assessment\DataManagement\bin\Debug\Lib.dll
+c:\users\magno\source\repos\Assessment\DataManagement\bin\Debug\Lib.pdb
+c:\users\magno\source\repos\Assessment\DataManagement\obj\Debug\DataManagement.csprojResolveAssemblyReference.cache
